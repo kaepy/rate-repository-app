@@ -1,18 +1,6 @@
-import { FlatList, View, StyleSheet, Text } from "react-native";
+import { FlatList } from "react-native";
 import ItemSeparator from "./ItemSeparator";
 import RepositoryItem from "./RepositoryItem";
-
-const styles = StyleSheet.create({
-  item: {
-    backgroundColor: "#cccccc",
-    padding: 10,
-    marginVertical: 0,
-    marginHorizontal: 16,
-  },
-  fullName: {
-    fontWeight: "bold",
-  },
-});
 
 const repositories = [
   {
