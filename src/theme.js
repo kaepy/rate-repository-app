@@ -5,13 +5,14 @@ const theme = {
     textSecondary: "#586069",
     textAppBar: "#ffffff",
     primary: "#0366d6",
-    bgPrimary: "#ffffff",
+    bgPrimary: "#e1e4e8",
+    bgSecondary: "#ffffff",
     bgAppBar: "#24292e",
     bgSeparator: "#cccccc",
   },
   fontSizes: {
     body: 14,
-    subheading: 20,
+    subheading: 16,
   },
   fonts: {
     main: "System",
